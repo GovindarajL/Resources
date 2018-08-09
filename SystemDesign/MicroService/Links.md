@@ -1,0 +1,1 @@
+- [Dzone Article on Microservice](https://dzone.com/articles/technology-and-innovation-microservices-the-future?edition=387204&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-08) -> which is very useful
