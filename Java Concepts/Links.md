@@ -1,2 +1,3 @@
 - [This Keyword from JavaPoint](https://www.javatpoint.com/this-keyword)
 - [ProgrammerInterview.com](https://www.programmerinterview.com/index.php/java-questions/system-exit0-try-catch-block-will-finally-block-execute/) -> ProgrammerInterview.com is very helpful and trustful sites for Java, DS, Design Patterns and puzzles, non-Technical Questions so please look into it.
+- [Dzone Article Related to Objects in Java](https://dzone.com/articles/all-about-object?edition=387204&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-08) -> DZone website is useful for Learning Technology related stuffs.
