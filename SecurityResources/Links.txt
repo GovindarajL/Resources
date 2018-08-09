@@ -1,1 +1,2 @@
-i
+Proxy Server:-   https://whatis.techtarget.com/definition/proxy-server
+Firewall:-       https://searchsecurity.techtarget.com/definition/firewall
