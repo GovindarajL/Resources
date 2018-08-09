@@ -1,2 +1,3 @@
+- [HiredinTech.com](https://www.hiredintech.com/classrooms/algorithm-design/lesson/82) -> Best site for Algorithms and DataStructure
 - [codechef Additional Resource -> Algorist](http://www.algorist.com/) -> Here Under Useful links visit each links mainly solutions wiki, Algorithm repository and lecture notes
 - [Recursion Programming Interview](https://www.programmerinterview.com/index.php/recursion/recursion-introduction/)
