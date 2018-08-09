@@ -1,1 +1,2 @@
 - [Non-Technical Questions from ProgrammerInterview](https://www.programmerinterview.com/index.php/non-technical-questions/introduction/)
+- [Job Advice For Programmers from ProgrammerInterview](https://www.programmerinterview.com/index.php/job-advice/job-offer-negotiations/)
