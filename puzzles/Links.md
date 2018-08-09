@@ -1,0 +1,1 @@
+- [puzzles from ProgrammerInterview.com](https://www.programmerinterview.com/index.php/puzzles/introduction/)
