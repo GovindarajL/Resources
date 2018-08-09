@@ -1,1 +1,4 @@
-i
+Creating Objects to Interface and Abstract class:-
+http://addictedtojava.blogspot.com/2013/05/creating-object-to-interface-and.html
+
+http://addictedtojava.blogspot.com/ -> contains OOPS concept
