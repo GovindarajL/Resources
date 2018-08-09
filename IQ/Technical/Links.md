@@ -1,1 +1,2 @@
 - [General Questions from ProgrammerInterview.com](https://www.programmerinterview.com/index.php/general-miscellaneous/introduction/)
+- [AIQ from careercup](https://www.careercup.com/question?id=5196843888672768)
