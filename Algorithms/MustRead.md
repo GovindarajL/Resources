@@ -3,4 +3,6 @@
 3. CLRS Introduction to Algorithms
 4. GeeksforGeeks
 5. codechef tutorials
-6. Algorithm Manual book 
+6. The Algorithm Design Manual, 2nd Edition by Steven Skiena
+ 
+
