@@ -1,0 +1,1 @@
+- [ProgrammerInterview.com](https://www.programmerinterview.com/index.php/database-sql/introduction/) -> You can trust the solution provided on this site.
