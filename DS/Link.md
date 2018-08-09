@@ -1,2 +1,2 @@
-[Algorist from codechef additional Resource](http://www.algorist.com/algorist.html)  -> Contains Source code of inbuild datastructure
-[ProgrammerInterview.com](https://www.programmerinterview.com/index.php/data-structures/introduction/) -> Helpful and most trustful sites contains accurate and correct answers and explanation are really awesome.
+- [Algorist from codechef additional Resource](http://www.algorist.com/algorist.html)  -> Contains Source code of inbuild datastructure.
+- [ProgrammerInterview.com](https://www.programmerinterview.com/index.php/data-structures/introduction/) -> Helpful and most trustful sites contains accurate and correct answers and explanation are really awesome.
