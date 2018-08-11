@@ -3,3 +3,5 @@
 - [Dzone Article Related to Objects in Java](https://dzone.com/articles/all-about-object?edition=387204&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-08) -> DZone website is useful for Learning Technology related stuffs.
 - [Java Code Geeks Article on Remove If-else](https://www.javacodegeeks.com/2014/10/factory-without-if-else.html) -> Java Code Geeks articles are useful and good content related to java concepts.
 - [Different ways of Getting Input in Java from Hackerearth](https://hackthejava.wordpress.com/2016/09/16/inputoutput-in-java/)
+- [Code Project Article on replace if-else in Java](https://www.codeproject.com/Articles/12508/Dude-are-you-still-programming-using-if-then-else)
+- [Useful Article on replace if-else in Java](http://workingonbits.com/2011/07/24/how-to-avoid-ifelse-statements/)
