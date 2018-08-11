@@ -85,4 +85,14 @@ Daily Minimum Time Required:-
 
 Point to Remember:-  Practice whiteboard coding not keyboard coding. During Interview They will lookon my thought process and my approach and my problem solving ability
 
+Parallely while doing algorithm complete the algorithm part1 and part2 course in courseera.
+Algorithms Part 1 by Princeton University | https://www.coursera.org/learn/algorithms-part1 335
+Algorithms Part 2 by Princeton University | https://www.coursera.org/learn/algorithms-part2 148
+
+And For DS:-
+Data Structures & Performance by UC San Diego | https://www.coursera.org/learn/data-structures-optimizing-performance 585
+Advanced Data Structures in Java by UC San Diego | https://www.coursera.org/learn/advanced-data-structures 219
+
+Best Book for Algorithm and DS in Java:-
+https://www.amazon.com/dp/0672324539/ -> You have soft copy of this book
 
