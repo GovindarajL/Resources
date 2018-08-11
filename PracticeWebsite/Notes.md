@@ -104,3 +104,5 @@ https://www.amazon.com/dp/0672324539/ -> You have soft copy of this book
 
 Before Using any website to practice, if it is for the first time you are using the website then read the FAQ or help in that site. e.g. for Hackerrank https://www.hackerrank.com/faq
 
+Free Time:-
+https://www.topcoder.com/community/data-science/data-science-tutorials/
