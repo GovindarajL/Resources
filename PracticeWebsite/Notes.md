@@ -62,6 +62,12 @@ Leetcode:-
 InterviewBit:-
 - Same as leetcode but helpful for attending interviews.
 
+Careercup and GlassDoor:-
+- For company interview questions
+
+Gainlo:-
+- For tips and company interview questions
+
 Daily Plan Initial:-
 
 - Complete HiredinTech courses 
@@ -77,7 +83,7 @@ Intermediate Plan:-
 Advanced Plan:-
 - Upon regarly practicing in hackerearth, hackerrank and GFG and code contest, Now this is the time to look into ctci book, then solve must do coding questions in GFG and company coding questions.
 - Finally solve problems inleetcode for practice 
-- Question asked in amazon interview  search in google and youtube
+- Question asked in amazon interview  search in google and youtube and from careercup and Glassdoor website
 - Then FIrst prepare and upload Resume in Interviewbit and then start solving problems in interviewbit without looking into others answers.
 
 Daily Minimum Time Required:-
