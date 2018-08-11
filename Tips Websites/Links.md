@@ -1,1 +1,2 @@
 - [Hired.com](https://hired.com/blog/candidates/how-to-effectively-prepare-for-technical-interviews/) -> one of the most useful and important website, follow each and every word.
+- [Tips for how to study](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#general-study)
