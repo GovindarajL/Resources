@@ -1,3 +1,3 @@
 - [Hired.com](https://hired.com/blog/candidates/how-to-effectively-prepare-for-technical-interviews/) -> one of the most useful and important website, follow each and every word.
 - [Tips for how to study](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#general-study)
-- [Good Programmer Vs Average Programmer](https://hackernoon.com/good-programmer-vs-average-programmer-4a398889fe68)
+- [Good Programmer Vs Average Programmer](https://hackernoon.com/good-programmer-vs-average-programmer-4a398889fe68) -> Understanding Requirements and Finding gaps in it is the main differentiator between these two.
