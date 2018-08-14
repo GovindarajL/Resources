@@ -2,6 +2,8 @@ Ref:- https://www.interviewcake.com/question/java/mesh-message?utm_source=weekly
 
 **You wrote a trendy new messaging app, MeshMessage, to get around flaky cell phone coverage.**
 
+Noter:- Few Images are missing below so refer the URL. For Inserting Images in Markdown Refer:- https://guides.github.com/features/mastering-markdown/
+
 Instead of routing texts through cell towers, your app sends messages via the phones of nearby users, passing each message along from one phone to the next until it reaches the intended recipient. (Don't worry—the messages are encrypted while they're in transit.)
 
 Some friends have been using your service, and they're complaining that it takes a long time for messages to get delivered. After some preliminary debugging, you suspect messages might not be taking the most direct route from the sender to the recipient.
