@@ -1,2 +1,5 @@
 - [Algorist from codechef additional Resource](http://www.algorist.com/algorist.html)  -> Contains Source code of inbuild datastructure.
 - [ProgrammerInterview.com](https://www.programmerinterview.com/index.php/data-structures/introduction/) -> Helpful and most trustful sites contains accurate and correct answers and explanation are really awesome.
+- Most of the work we do involves storing and providing access to data in efficient ways. This requires a strong background in data structures. You’ll need to understand the inner workings of common data structures and be able to compare and contrast their usage in various applications. You will be expected to know the runtimes for common operations as well as how they use memory.
+- [From Software Development topics](https://www.amazon.jobs/en-gb/landing_pages/software-development-topics)
+
