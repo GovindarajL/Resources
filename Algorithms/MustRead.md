@@ -1,4 +1,5 @@
 1. HiredinTech
+2. [One of the Best Website for Practing Algorithms Questions](http://www.zrzahid.com/)
 2. [Useful Link from freecodecamp](https://forum.freecodecamp.org/t/what-is-your-strategy-for-learning-data-structures-and-algorithms/86995/5)
 3. [MIT lecture Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 4. CLRS Introduction to Algorithms
