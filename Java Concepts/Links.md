@@ -6,3 +6,5 @@
 - [Code Project Article on replace if-else in Java](https://www.codeproject.com/Articles/12508/Dude-are-you-still-programming-using-if-then-else)
 - [Useful Article on replace if-else in Java](http://workingonbits.com/2011/07/24/how-to-avoid-ifelse-statements/)
 - [Java Related Concepts from Java67.com](http://www.java67.com/2016/09/oops-concept-tutorial-in-java-object-oriented-programming.html#at_pco=smlwn-1.0&at_si=5b7171e64f1efb4d&at_ab=per-2&at_pos=0&at_tot=1)
+- [Input/Output in Java](https://hackthejava.wordpress.com/2016/09/16/inputoutput-in-java/)
+- Best I/O in Java is InputStream and PrintWriter in terms of memory efficiency
