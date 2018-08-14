@@ -8,3 +8,5 @@
 - [Java Related Concepts from Java67.com](http://www.java67.com/2016/09/oops-concept-tutorial-in-java-object-oriented-programming.html#at_pco=smlwn-1.0&at_si=5b7171e64f1efb4d&at_ab=per-2&at_pos=0&at_tot=1)
 - [Input/Output in Java](https://hackthejava.wordpress.com/2016/09/16/inputoutput-in-java/)
 - Best I/O in Java is InputStream and PrintWriter in terms of memory efficiency
+- [Procol Buffer Vs JSON Vs FlatBuffer](https://codeburst.io/json-vs-protocol-buffers-vs-flatbuffers-a4247f8bda6f)
+- [About Google Procotl Buffer from Javarevisited BlogSpot](https://javarevisited.blogspot.com/2015/06/google-protocol-buffers-or-protobuf-java-serialization-alternative.html)
