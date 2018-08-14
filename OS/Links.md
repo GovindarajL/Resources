@@ -1,0 +1,3 @@
+- [ThreadSafety from Wikipedia](https://en.wikipedia.org/wiki/Thread_safety)
+- Regarding from Amazon perspective: You won’t need to know how to build your own operating system from scratch, but you should be familiar with some OS topics that can affect code performance (e.g. memory management, processes, threads, synchronization, paging, and multithreading).
+- [Software Development topics from Amazon jobs](https://www.amazon.jobs/en-gb/landing_pages/software-development-topics)
