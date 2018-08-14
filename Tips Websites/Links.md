@@ -3,3 +3,4 @@
 - [Good Programmer Vs Average Programmer](https://hackernoon.com/good-programmer-vs-average-programmer-4a398889fe68) -> Understanding Requirements and Finding gaps in it is the main differentiator between these two.
 - [Finding Creativity in Software Engineering](https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c)
 - [Coding interview roadmap: How to develop a foolproof interview study plan](https://www.byte-by-byte.com/interview-roadmap/) -> from byte-by-byte.com
+- [Coding Interview Tips from InterviewCake](https://www.interviewcake.com/coding-interview-tips) -> Useful
