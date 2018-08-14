@@ -5,5 +5,6 @@
 5. GeeksforGeeks
 6. codechef tutorials
 7. The Algorithm Design Manual, 2nd Edition by Steven Skiena
+8. [From Quora on what are the good websites to learn DS and Algorithms](https://www.quora.com/What-are-some-good-websites-to-learn-data-structures-and-algorithms)
  
 
