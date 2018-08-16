@@ -6,7 +6,7 @@ I opened up a dictionary to a page in the middle and started flipping through, l
 
 Now I have an array of words that are mostly alphabetical, except they start somewhere in the middle of the alphabet, reach the end, and then start from the beginning of the alphabet. In other words, this is an alphabetically ordered array that has been "rotated." For example:
 
-  const char *words[11] = {
+  String[] words = new String[]{
     "ptolemaic",
     "retrograde",
     "supplant",
@@ -17,10 +17,10 @@ Now I have an array of words that are mostly alphabetical, except they start som
     "banoffee",
     "engender",
     "karpatka",
-    "othellolagkage"
+    "othellolagkage",
 };
 
-Write a function for finding the index of the "rotation point," which is where I started working from the beginning of the dictionary. This array is huge (there are lots of words I don't know) so we want to be efficient here.
+Write a method for finding the index of the "rotation point," which is where I started working from the beginning of the dictionary. This array is huge (there are lots of words I don't know) so we want to be efficient here.
 
 Gotchas
 We can get O(\lg{n})O(lgn) time.
@@ -50,22 +50,22 @@ This is a modified version of binary search. ↴ At each iteration, we go right 
 
 We keep track of the lower and upper bounds on the rotation point, calling them floorIndex and ceilingIndex (initially we called them "floor" and "ceiling," but because we didn't imply the type in the name we got confused and created bugs). When floorIndex and ceilingIndex are directly next to each other, we know the floor is the last item we added before starting from the beginning of the dictionary, and the ceiling is the first item we added after.
 
-  size_t findRotationPoint(const char **words, size_t length)
-{
-    const char *firstWord = words[0];
-    size_t floorIndex = 0;
-    size_t ceilingIndex = length - 1;
+  public static int findRotationPoint(String[] words) {
+    final String firstWord = words[0];
+
+    int floorIndex = 0;
+    int ceilingIndex = words.length - 1;
 
     while (floorIndex < ceilingIndex) {
+
         // guess a point halfway between floor and ceiling
-        size_t guessIndex = floorIndex + ((ceilingIndex - floorIndex) / 2);
+        int guessIndex = floorIndex + ((ceilingIndex - floorIndex) / 2);
 
         // if guess comes after first word or is the first word
-        if (strcmp(words[guessIndex], firstWord) >= 0) {
+        if (words[guessIndex].compareTo(firstWord) >= 0) {
             // go right
             floorIndex = guessIndex;
-        }
-        else {
+        } else {
             // go left
             ceilingIndex = guessIndex;
         }
@@ -96,7 +96,7 @@ Some languages—like German, Russian, and Dutch—can have arbitrarily long wor
 We use O(1)O(1) space to store the first word and the floor and ceiling indices.
 
 Bonus
-This function assumes that the array is rotated. If it isn't, what index will it return? How can we fix our function to return 0 for an unrotated array?
+This method assumes that the array is rotated. If it isn't, what index will it return? How can we fix our method to return 0 for an unrotated array?
 
 What We Learned
 The answer was a modified version of binary search.
@@ -109,3 +109,4 @@ The value at a given index tells us a lot about what's to the left and what's to
 We don't have to look at every item in the array. By inspecting the middle item, we can "rule out" half of the array.
 We can use this approach over and over, cutting the problem in half until we have the answer. This is sometimes called "divide and conquer."
 So whenever you know an array is sorted or almost sorted, think about these lessons from binary search and see if they apply.
+
