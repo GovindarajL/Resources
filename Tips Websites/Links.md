@@ -4,4 +4,5 @@
 - [Finding Creativity in Software Engineering](https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c)
 - [Coding interview roadmap: How to develop a foolproof interview study plan](https://www.byte-by-byte.com/interview-roadmap/) -> from byte-by-byte.com
 - [Coding Interview Tips from InterviewCake](https://www.interviewcake.com/coding-interview-tips) -> Useful
+- [FIve ways to prepare other than coding from byte-by-byte](https://www.byte-by-byte.com/5-ways-to-prepare-for-your-coding-interview-other-than-coding/?utm_source=autoresponder&utm_medium=email&utm_campaign=new-subscribers&ck_subscriber_id=238790999)
 - **See bookmarks in Quora, Medium, Google docs**
