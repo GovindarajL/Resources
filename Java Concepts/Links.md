@@ -11,3 +11,4 @@
 - [Procol Buffer Vs JSON Vs FlatBuffer](https://codeburst.io/json-vs-protocol-buffers-vs-flatbuffers-a4247f8bda6f)
 - [About Google Procotl Buffer from Javarevisited BlogSpot](https://javarevisited.blogspot.com/2015/06/google-protocol-buffers-or-protobuf-java-serialization-alternative.html)
 - [About Java9 from DZone](https://dzone.com/articles/new-language-features-in-java-9-adrian-d-finlay-me?edition=387209&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-14)
+- [Why HashMap in Java8 use binary tree instead of linkedlist](https://stackoverflow.com/questions/35888183/why-hash-maps-in-java-8-use-binary-tree-instead-of-linked-list)
