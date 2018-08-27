@@ -1,0 +1,1 @@
+- [Anatomy of Amazon salary for SDE2](http://www.nailyourjobinterview.com/the-anatomy-of-an-amazon-job-offer/)
