@@ -23,5 +23,19 @@ Aug 29 2018
 
 ```
       
-      
-2. Hello
+```
+
+2. Regex we can use it in split method of string
+
+You can refer to this table to figure out the logic behind each match:
+
+\d matches all digits
+\s matches spaces
+\w matches word characters
+Alternatively, a capital letter means the opposite:
+
+\D matches non-digits
+\S matches non-spaces
+\W matches non-word characters
+
+```
