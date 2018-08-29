@@ -1,4 +1,5 @@
 Aug 29 2018
+
 ```
 1. To exclude the specific ranges of indexes from an array of elements.  
     A naive approach is to delete the element using the extra space.
@@ -19,7 +20,8 @@ Aug 29 2018
       return j; //return the size of the array
       
       Ref: https://www.geeksforgeeks.org/delete-array-element-in-given-index-range-l-r/
-      ```
+
+```
       
       
 2. Hello
