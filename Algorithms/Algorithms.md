@@ -18,6 +18,8 @@ Aug 29 2018
       }
       return j; //return the size of the array
       
-      Ref: https://www.geeksforgeeks.org/delete-array-element-in-given-index-range-l-r/```
+      Ref: https://www.geeksforgeeks.org/delete-array-element-in-given-index-range-l-r/
+      ```
+      
       
 2. 
