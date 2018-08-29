@@ -14,4 +14,4 @@
 - [Why HashMap in Java8 use binary tree instead of linkedlist](https://stackoverflow.com/questions/35888183/why-hash-maps-in-java-8-use-binary-tree-instead-of-linked-list)
 - In Java7, HashMap is implemented using Linkedlist but in Java8 HashMap is implemented using Redblack tree to improve search/lookup from O(n) to O(logn)
 - [Internal working of HashMap from GFG](https://www.geeksforgeeks.org/internal-working-of-hashmap-java/)
-- **Need to study BigInteger in Java for so highest number gcd and factorial this is useful and it has several inbuilt methods **
+- **Need to study BigInteger in Java for so highest number gcd and factorial this is useful and it has several inbuilt methods**
