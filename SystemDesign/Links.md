@@ -3,4 +3,5 @@
 - [Above para is from Software Development topics](https://www.amazon.jobs/en-gb/landing_pages/software-development-topics)
 - [Best website to practice System Design Question from n00tcod3r blogspot](http://n00tc0d3r.blogspot.com/)
 - [Software Design Architecture Principles from DZone](https://dzone.com/articles/30-shared-principles-for-discussing-software-archi-1?edition=385377&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-15)
+- https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
 
