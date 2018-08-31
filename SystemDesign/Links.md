@@ -13,3 +13,10 @@ Five Dos and Donts in System Design Int.:- From gaurav Sen youtube
 4. Be sure about what you are speaking, avoid speaking without knowing about it.
 5. Aware of current technologies
 (Defining tables and Entity relationship diagram may be asked)
+
+Three pillars using which system design int. standing on ,
+1. Clarity of thoughts i.e you can express yourself clearly to the inter. 
+2. flexibility dont stick with one architecture
+3. Knowledge i.e know what is going around the world.
+
+
