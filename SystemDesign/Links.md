@@ -4,4 +4,12 @@
 - [Best website to practice System Design Question from n00tcod3r blogspot](http://n00tc0d3r.blogspot.com/)
 - [Software Design Architecture Principles from DZone](https://dzone.com/articles/30-shared-principles-for-discussing-software-archi-1?edition=385377&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-08-15)
 - https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+- three tips 1) Focus on the stuff that you already know 2) understand the problem, 3)breakdown the problem and engage with the interviewer what they are looking for and what they want you to do ask where do you want me to go to deep i.e db or load balancing. these points are from 3 ways to ace your system design interview from Byte-By-Byte youtube video.
 
+Five Dos and Donts in System Design Int.:- From gaurav Sen youtube
+1. Do not go into detail prematurely,               
+2. Dont have a set architecture in mind. For the requirements or scenario given, you have to think whether you need to use particular technology.
+3. Keep it simple stupid, Don't go very deep into the service have a look at entire architecture. Have a equal balance or importance to each service or each part in the system you are designing.
+4. Be sure about what you are speaking, avoid speaking without knowing about it.
+5. Aware of current technologies
+(Defining tables and Entity relationship diagram may be asked)
