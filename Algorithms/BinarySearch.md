@@ -16,3 +16,6 @@ we can reduce the search by half using binary search. Only constraint is array s
 
 Prerequisite for Binary Search Algorithm:-
 1. Input Array to this algorithm should be sorted.
+
+Refer this:-
+http://ibt.edu.pk/qec/jict/2.1/7%20Multiple%20Values%20Search%20Algorithm.pdf
