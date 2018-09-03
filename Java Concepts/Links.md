@@ -20,3 +20,6 @@
 - Real time use case of Java (https://data-flair.training/blogs/java-use-cases/)
 - Features of Java (https://data-flair.training/blogs/features-of-java/)
 - Why Multithreading and use of multithreading and how it is implemented in Java? 
+- For Java refer the sites:- You can go through any site on google such as devjournals, javatpoint,javabrains.
+
+
