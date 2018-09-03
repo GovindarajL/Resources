@@ -17,3 +17,5 @@
 - **Need to study BigInteger in Java for so highest number gcd and factorial this is useful and it has several inbuilt methods**
 - https://www.geeksforgeeks.org/static-method-in-interface-in-java/ we can have static methods in interface but these method should want to have definition in the interface and these method should not be overrided but you can call this method using interfacename.method()
 - Java11 new GC https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
+- Real time use case of Java (https://data-flair.training/blogs/java-use-cases/)
+- Features of Java (https://data-flair.training/blogs/features-of-java/)
