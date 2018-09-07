@@ -16,5 +16,10 @@ https://www.geeksforgeeks.org/dynamic-programming/
 First learn fron online tutorial from hackerearth, hackerrank, codechef, topcoder and leetcode and then practice all questions in geeks for geeks it will contains almost list of all the problems.
 
 https://www.quora.com/What-are-some-good-references-tutorials-to-master-in-recursion-and-dynamic-programming?no_redirect=1
-As ROhan Yadav said first master in recursion and then move to DP. See topcoder tutorials on Recursion in this same link
+As Rohan Yadav said first master in recursion and then move to DP. See topcoder tutorials on Recursion in this same link
+
+After Learning DP you need to solve this:-
+https://www.geeksforgeeks.org/coin-change-dp-7/
+https://www.geeksforgeeks.org/count-number-ways-reach-given-score-game/
+https://www.geeksforgeeks.org/shuffle-a-given-array/
 
