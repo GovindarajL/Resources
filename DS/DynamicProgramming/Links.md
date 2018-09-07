@@ -10,3 +10,5 @@ Dynamic Programming - InterviewBit
 Dynamic Programming – 7 Steps to Solve any DP Interview Problem
 
 Dynamic Programming Practice Problems - Techie Delight
+
+https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial
