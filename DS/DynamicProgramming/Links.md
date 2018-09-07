@@ -15,3 +15,6 @@ https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-prog
 https://www.geeksforgeeks.org/dynamic-programming/
 First learn fron online tutorial from hackerearth, hackerrank, codechef, topcoder and leetcode and then practice all questions in geeks for geeks it will contains almost list of all the problems.
 
+https://www.quora.com/What-are-some-good-references-tutorials-to-master-in-recursion-and-dynamic-programming?no_redirect=1
+As ROhan Yadav said first master in recursion and then move to DP. See topcoder tutorials on Recursion in this same link
+
