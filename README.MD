@@ -7,5 +7,7 @@ https://www.quora.com/What-should-every-software-engineer-know-about-data-struct
 Final Advice – Practice makes a man perfect.Keep on practicing and your hard work will always be rewarded.You just have to be patient and confident.**
 from this https://www.geeksforgeeks.org/amazon-interview-experience-6-months-intern-for-sde-1/
 
+https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon?utm_source=social&utm_medium=li&utm_term=amazon&utm_content=interview-prep&ref=tsm_1_LINKEDIN_COMPANY_s_amzn_1550246240&linkId=52048859
+
 
 
