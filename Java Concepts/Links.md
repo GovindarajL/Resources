@@ -21,5 +21,6 @@
 - Features of Java (https://data-flair.training/blogs/features-of-java/)
 - Why Multithreading and use of multithreading and how it is implemented in Java? 
 - For Java refer the sites:- You can go through any site on google such as devjournals, javatpoint,javabrains.
+- Streams in Java is the sequence of data. Streams can be Byte Stream or Character Stream.  
 
 
