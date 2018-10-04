@@ -1,0 +1,8 @@
+- Read about salary Negotiation
+- About the company
+- Leadership principles
+- prepare resume
+- Start from the Round1 phone screening(1-3) rounds, onsite interviews (includes coding, design and HR)
+- How to appear for phone screen interviews specific to the company
+- what are all the rounds in onsite interviews
+- once you are ready start with mock interviews and apply for the job.
