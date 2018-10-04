@@ -1,7 +1,7 @@
 - Read about salary Negotiation
 - About the company
 - Leadership principles
-- prepare resume
+- prepare resume (Build a strong resume that showcase your talents and achievements)
 - Start from the Round1 phone screening(1-3) rounds, onsite interviews (includes coding, design and HR)
 - How to appear for phone screen interviews specific to the company
 - what are all the rounds in onsite interviews
