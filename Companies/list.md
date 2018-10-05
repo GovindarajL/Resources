@@ -1,0 +1,8 @@
+- Amazon
+- Thoughtworks
+- paypal
+- cisco
+- HP
+- Symentac
+- Indix
+- Mindtree
