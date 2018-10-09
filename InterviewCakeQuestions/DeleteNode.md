@@ -1,4 +1,5 @@
 Ref:- https://www.interviewcake.com/question/java/delete-node?utm_source=weekly_email&utm_source=drip&utm_campaign=weekly_email&utm_campaign=Interview%20Cake%20Weekly%20Problem%20%23212:%20Delete%20Node&utm_medium=email&utm_medium=email
+
 Delete a node from a singly-linked list, ↴ given only a variable pointing to that node.
 
 The input could, for example, be the variable b below:
