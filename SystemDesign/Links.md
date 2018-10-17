@@ -19,4 +19,5 @@ Three pillars using which system design int. standing on ,
 2. flexibility dont stick with one architecture
 3. Knowledge i.e know what is going around the world.
 
+Object Oritented Design Principles - https://dzone.com/articles/object-oriented-design-principles-in-java?edition=407226&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-16
 
