@@ -2,3 +2,5 @@
 
 - [Design Pattern for Microservice](https://dzone.com/articles/design-patterns-for-microservices?edition=407230&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-17)
 
+- [Behavioural Design Pattern from DZone](https://dzone.com/articles/behavioural-design-patterns-command?edition=408195&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-15)
+
