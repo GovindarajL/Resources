@@ -1,4 +1,6 @@
 - **Amazon**
+- Freshdesk
+- Qualcomm
 - Thoughtworks
 - Intel
 - Cisco
