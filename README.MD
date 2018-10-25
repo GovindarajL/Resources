@@ -10,6 +10,6 @@ from this https://www.geeksforgeeks.org/amazon-interview-experience-6-months-int
 https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon?utm_source=social&utm_medium=li&utm_term=amazon&utm_content=interview-prep&ref=tsm_1_LINKEDIN_COMPANY_s_amzn_1550246240&linkId=52048859
 
 **Analyze the things and practice are the key to remember the things**
-
+https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927?fbclid=IwAR33cejAoTFKc_VatvG4k3LTZzhCIuyBGo5_2oPYSqZqO1quV6ujhJk4CzU
 
 
