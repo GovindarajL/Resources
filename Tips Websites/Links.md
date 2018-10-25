@@ -7,3 +7,4 @@
 - [FIve ways to prepare other than coding from byte-by-byte](https://www.byte-by-byte.com/5-ways-to-prepare-for-your-coding-interview-other-than-coding/?utm_source=autoresponder&utm_medium=email&utm_campaign=new-subscribers&ck_subscriber_id=238790999)
 - **See bookmarks in Quora, Medium, Google docs**
 - https://www.worknrby.com/interview-tips
+- https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927?fbclid=IwAR33cejAoTFKc_VatvG4k3LTZzhCIuyBGo5_2oPYSqZqO1quV6ujhJk4CzU
