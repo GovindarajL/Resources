@@ -24,3 +24,4 @@ Object Oritented Design Principles - https://dzone.com/articles/object-oriented-
 - Choosing the right db whether sql or nosql is based on the requirement given to you by the interviewer. And see the cap theorem also
 - http://highscalability.com/amazon-architecture
 
+- https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
