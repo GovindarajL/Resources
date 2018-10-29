@@ -22,4 +22,5 @@ Three pillars using which system design int. standing on ,
 Object Oritented Design Principles - https://dzone.com/articles/object-oriented-design-principles-in-java?edition=407226&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-10-16
 
 - Choosing the right db whether sql or nosql is based on the requirement given to you by the interviewer. And see the cap theorem also
+- http://highscalability.com/amazon-architecture
 
