@@ -9,3 +9,4 @@
 - https://www.worknrby.com/interview-tips
 - https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927?fbclid=IwAR33cejAoTFKc_VatvG4k3LTZzhCIuyBGo5_2oPYSqZqO1quV6ujhJk4CzU
 - http://thetomorrowbeckons.blogspot.com/2015/07/six-sins-of-communication.html
+- https://blog.worknrby.com/25-interview-questions-recruiter-definitely-gonna-ask-you/
