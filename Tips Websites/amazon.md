@@ -9,3 +9,5 @@ https://www.indeed.com/cmp/Amazon.com/faq/hiring-process
 http://highscalability.com/amazon-architecture
 
 https://www.linkedin.com/pulse/aws-vs-azure-google-ibm-cloud-which-best-me-nodericks-technologies/
+
+https://www.quora.com/What-is-Amazon-Web-Services-AWS
