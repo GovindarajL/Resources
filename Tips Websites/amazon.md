@@ -13,3 +13,5 @@ https://www.linkedin.com/pulse/aws-vs-azure-google-ibm-cloud-which-best-me-noder
 https://www.quora.com/What-is-Amazon-Web-Services-AWS
 
 https://www.inc.com/business-insider/best-amazon-interview-questions.html
+
+https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson
