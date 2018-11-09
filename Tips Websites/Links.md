@@ -13,3 +13,4 @@
 - https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166
 - https://blog.codinghorror.com/why-cant-programmers-program/
 - https://www.inc.com/bill-murphy-jr/want-to-work-at-amazon-heres-how-to-answer-most-important-interview-questions.html
+- https://www.snagajob.com/resources/amazons-hiring-process/
