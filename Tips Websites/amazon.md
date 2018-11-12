@@ -23,3 +23,5 @@ https://www.businessinsider.in/25-tricky-job-interview-questions-the-best-compan
 http://qa.geeksforgeeks.org/5/qa.geeksforgeeks.org/5/how-to-answer-questions-like-why-amazon.html
 
 http://qa.geeksforgeeks.org/ -> In RHS go through each and every row. First solve the company specific questions
+
+https://mashable.com/2011/07/22/facts-amazon-com/
