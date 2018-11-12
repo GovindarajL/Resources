@@ -21,3 +21,5 @@ https://www.businessinsider.in/21-tough-interview-questions-you-may-have-to-answ
 https://www.businessinsider.in/25-tricky-job-interview-questions-the-best-companies-in-America-are-asking/articleshow/59394149.cms
 
 http://qa.geeksforgeeks.org/5/qa.geeksforgeeks.org/5/how-to-answer-questions-like-why-amazon.html
+
+http://qa.geeksforgeeks.org/ -> In RHS go through each and every row. First solve the company specific questions
