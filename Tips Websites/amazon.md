@@ -25,3 +25,5 @@ http://qa.geeksforgeeks.org/5/qa.geeksforgeeks.org/5/how-to-answer-questions-lik
 http://qa.geeksforgeeks.org/ -> In RHS go through each and every row. First solve the company specific questions
 
 https://mashable.com/2011/07/22/facts-amazon-com/
+
+https://interviewgenie.com/blog-1/2018/1/3/answers-for-the-top-5-customer-obsession-amazon-interview-questions
