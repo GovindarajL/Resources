@@ -36,3 +36,5 @@ https://interviewgenie.com/blog-1/2017/7/30/how-to-answer-tell-me-about-yourself
 
 https://interviewgenie.com/blog-1/2017/4/13/how-to-answer-behavioral-interview-questions-using-the-star-technique
 
+https://interviewgenie.com/blog-1/2018/1/10/ownership
+
