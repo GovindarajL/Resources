@@ -15,3 +15,5 @@ https://www.quora.com/What-is-Amazon-Web-Services-AWS
 https://www.inc.com/business-insider/best-amazon-interview-questions.html
 
 https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson
+
+https://www.businessinsider.in/21-tough-interview-questions-you-may-have-to-answer-if-you-want-to-work-at-Amazon/articleshow/62746574.cms
