@@ -38,3 +38,4 @@ https://interviewgenie.com/blog-1/2017/4/13/how-to-answer-behavioral-interview-q
 
 https://interviewgenie.com/blog-1/2018/1/10/ownership
 
+https://www.quora.com/Amazon-interview-what-is-the-best-answer-to-the-question-why-Amazon
