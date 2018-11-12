@@ -27,3 +27,12 @@ http://qa.geeksforgeeks.org/ -> In RHS go through each and every row. First solv
 https://mashable.com/2011/07/22/facts-amazon-com/
 
 https://interviewgenie.com/blog-1/2018/1/3/answers-for-the-top-5-customer-obsession-amazon-interview-questions - useful
+
+https://interviewgenie.com/blog-1/interviewing-at-amazon-behavioral-interview-questions
+
+https://interviewgenie.com/blog-1/2017/12/11/good-and-bad-answers-to-the-interview-question-why-do-you-want-to-work-at-amazon
+
+https://interviewgenie.com/blog-1/2017/7/30/how-to-answer-tell-me-about-yourself
+
+https://interviewgenie.com/blog-1/2017/4/13/how-to-answer-behavioral-interview-questions-using-the-star-technique
+
