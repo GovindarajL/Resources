@@ -17,3 +17,5 @@ https://www.inc.com/business-insider/best-amazon-interview-questions.html
 https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson
 
 https://www.businessinsider.in/21-tough-interview-questions-you-may-have-to-answer-if-you-want-to-work-at-Amazon/articleshow/62746574.cms
+
+https://www.businessinsider.in/25-tricky-job-interview-questions-the-best-companies-in-America-are-asking/articleshow/59394149.cms
