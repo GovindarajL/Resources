@@ -26,3 +26,4 @@
 - Introducing thread in socket programming https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
 - Thread Pools in Java https://www.geeksforgeeks.org/thread-pools-java/
 - Default method in Java8 https://www.geeksforgeeks.org/default-methods-java/
+- https://dzone.com/articles/code-smells-if-statements
