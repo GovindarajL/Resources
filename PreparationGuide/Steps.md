@@ -33,3 +33,5 @@ https://github.com/kdn251/interviews
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
 
 https://www.coursera.org/learn/advanced-data-structures?action=enroll&authMode=login&recoOrder=0&utm_campaign=zrUF0OaxEeiWdBuMk8BiOg&utm_medium=email&utm_source=recommendations
+
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
