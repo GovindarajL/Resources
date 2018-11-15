@@ -17,4 +17,9 @@ Sites:-
 7. interviewbit
 
 https://github.com/andreis/interview
+
 https://github.com/connor11528/coding-interviews
+
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+https://github.com/yangshun/tech-interview-handbook
