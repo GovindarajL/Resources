@@ -111,7 +111,7 @@ Program Creek -> https://www.programcreek.com/2012/11/top-10-algorithms-for-codi
 
 https://github.com/andreis/interview
 
-https://github.com/connor11528/coding-interviews
+https://github.com/connor11528/coding-interviews -> Very Useful
 
 https://www.hackerrank.com/interview/interview-preparation-kit
 
@@ -124,3 +124,5 @@ https://github.com/mtdvio/every-programmer-should-know
 https://github.com/kdn251/interviews
 
 https://github.com/mtdvio/every-programmer-should-know
+
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
