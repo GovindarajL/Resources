@@ -311,7 +311,8 @@ This way, if "Becky" isn't in friends, Java will skip the second check about Bec
 This is all hypothetical, of course. It's not like things with Becky are weird or anything. We're totally cool. She's still in my friends hash map for sure and I hope I'm still in hers and Becky if you're reading this I just want you to know you're still in my friends hash map.
 
 and check first if the arrays are exhausted.
-----------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
 Don't Repeat Yourself (DRY) is a philosophy that you should avoid repetition in your code.
 
 Making code more DRY could involve taking repeated lines of code and factoring them out into a utility method.
