@@ -118,3 +118,7 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 https://github.com/yangshun/tech-interview-handbook
 
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+https://github.com/mtdvio/every-programmer-should-know
+
+https://github.com/kdn251/interviews
