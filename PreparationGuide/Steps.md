@@ -18,7 +18,7 @@ Sites:-
 
 https://github.com/andreis/interview
 
-https://github.com/connor11528/coding-interviews
+https://github.com/connor11528/coding-interviews -> Useful
 
 https://www.hackerrank.com/interview/interview-preparation-kit
 
@@ -30,3 +30,4 @@ https://github.com/mtdvio/every-programmer-should-know
 
 https://github.com/kdn251/interviews
 
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
