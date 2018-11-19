@@ -28,3 +28,4 @@
 - Default method in Java8 https://www.geeksforgeeks.org/default-methods-java/
 - https://dzone.com/articles/code-smells-if-statements
 - http://www.benchresources.net/returning-value-from-method-having-try-catch-finally-blocks-in-java/ -> See the bottom of the page there will be a info about other keywords in Java.
+- http://www.benchresources.net/ -> VV useful, nice information.
