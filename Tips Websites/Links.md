@@ -14,3 +14,4 @@
 - https://blog.codinghorror.com/why-cant-programmers-program/
 - https://www.inc.com/bill-murphy-jr/want-to-work-at-amazon-heres-how-to-answer-most-important-interview-questions.html
 - https://www.snagajob.com/resources/amazons-hiring-process/
+- https://www.businessinsider.in/44-of-the-hardest-questions-Apple-will-ask-in-a-job-interview/Given-an-iTunes-type-of-app-that-pulls-down-lots-of-images-that-get-stale-over-time-what-strategy-would-you-use-to-flush-disused-images-over-time-Software-Engineer-candidate/slideshow/58550067.cms
