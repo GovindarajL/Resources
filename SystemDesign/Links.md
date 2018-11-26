@@ -25,3 +25,5 @@ Object Oritented Design Principles - https://dzone.com/articles/object-oriented-
 - http://highscalability.com/amazon-architecture
 
 - https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
+
+- https://blog.timescale.com/time-series-data-cassandra-vs-timescaledb-postgresql-7c2cc50a89ce
