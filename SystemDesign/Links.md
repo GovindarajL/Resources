@@ -33,3 +33,4 @@ Object Oritented Design Principles - https://dzone.com/articles/object-oriented-
 - https://www.quora.com/How-do-I-answer-design-related-questions-like-design-a-parking-lot-in-an-Amazon-interview-Do-we-need-to-write-code-for-design-questions
 
 - https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528
+- http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/?utm_campaign=quora&utm_medium=How+do+I+answer+design-related+questions,+like+design+a+parking+lot,+in+an+Amazon+interview?&utm_source=quora
