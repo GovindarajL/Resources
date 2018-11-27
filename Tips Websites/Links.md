@@ -15,3 +15,4 @@
 - https://www.inc.com/bill-murphy-jr/want-to-work-at-amazon-heres-how-to-answer-most-important-interview-questions.html
 - https://www.snagajob.com/resources/amazons-hiring-process/
 - https://www.businessinsider.in/44-of-the-hardest-questions-Apple-will-ask-in-a-job-interview/Given-an-iTunes-type-of-app-that-pulls-down-lots-of-images-that-get-stale-over-time-what-strategy-would-you-use-to-flush-disused-images-over-time-Software-Engineer-candidate/slideshow/58550067.cms
+- http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/?utm_campaign=quora&utm_medium=How+do+I+answer+design-related+questions,+like+design+a+parking+lot,+in+an+Amazon+interview?&utm_source=quora
