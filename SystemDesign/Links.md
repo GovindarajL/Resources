@@ -27,3 +27,7 @@ Object Oritented Design Principles - https://dzone.com/articles/object-oriented-
 - https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
 
 - https://blog.timescale.com/time-series-data-cassandra-vs-timescaledb-postgresql-7c2cc50a89ce
+
+- https://www.educative.io/collection/page/5668639101419520/5692201761767424/5770234338213888
+
+- https://www.quora.com/How-do-I-answer-design-related-questions-like-design-a-parking-lot-in-an-Amazon-interview-Do-we-need-to-write-code-for-design-questions
