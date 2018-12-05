@@ -1,5 +1,7 @@
 https://www.quora.com/What-should-I-do-to-get-a-job-in-Amazon-in-India
 
+https://www.quora.com/How-do-I-prepare-for-interviewing-with-Google-Facebook-or-Amazon-while-having-a-full-time-job-as-a-software-engineer/answer/Taejun-TJ-Lee?share=2bbab109&srid=iJ0a
+
 https://www.amazon.jobs/en/faqs
 
 https://www.fastcompany.com/40542717/heres-what-it-takes-to-get-hired-at-amazon
