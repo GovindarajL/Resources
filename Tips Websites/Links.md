@@ -17,3 +17,4 @@
 - https://www.businessinsider.in/44-of-the-hardest-questions-Apple-will-ask-in-a-job-interview/Given-an-iTunes-type-of-app-that-pulls-down-lots-of-images-that-get-stale-over-time-what-strategy-would-you-use-to-flush-disused-images-over-time-Software-Engineer-candidate/slideshow/58550067.cms
 - http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/?utm_campaign=quora&utm_medium=How+do+I+answer+design-related+questions,+like+design+a+parking+lot,+in+an+Amazon+interview?&utm_source=quora
 - https://www.quora.com/How-do-I-prepare-for-interviewing-with-Google-Facebook-or-Amazon-while-having-a-full-time-job-as-a-software-engineer/answer/Taejun-TJ-Lee?share=2bbab109&srid=iJ0a
+- https://www.interviewcake.com/coding-interview-tips#unstuck
