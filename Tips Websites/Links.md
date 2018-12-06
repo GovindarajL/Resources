@@ -19,3 +19,7 @@
 - https://www.quora.com/How-do-I-prepare-for-interviewing-with-Google-Facebook-or-Amazon-while-having-a-full-time-job-as-a-software-engineer/answer/Taejun-TJ-Lee?share=2bbab109&srid=iJ0a
 - https://www.interviewcake.com/coding-interview-tips#unstuck
 - https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+- [Clean Code from Medium] (https://medium.com/s/story/reflections-on-clean-code-8c9b683277ca)
+- [DP Vs DC from Medium] (https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
+- [Learning to Code from Medium] (https://medium.com/coderbyte/on-learning-to-code-for-2019-aa086284a218)
+- [Understand your Programs Memory] (https://medium.freecodecamp.org/understand-your-programs-memory-92431fa8c6b)
