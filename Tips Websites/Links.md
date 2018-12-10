@@ -23,3 +23,4 @@
 - [DP Vs DC from Medium] (https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 - [Learning to Code from Medium] (https://medium.com/coderbyte/on-learning-to-code-for-2019-aa086284a218)
 - [Understand your Programs Memory] (https://medium.freecodecamp.org/understand-your-programs-memory-92431fa8c6b)
+- https://www.quora.com/What-are-the-top-ten-computer-science-algorithms-to-make-projects
