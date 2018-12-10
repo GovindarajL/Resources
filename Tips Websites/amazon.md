@@ -43,3 +43,5 @@ https://interviewgenie.com/blog-1/2018/1/10/ownership
 https://www.quora.com/Amazon-interview-what-is-the-best-answer-to-the-question-why-Amazon
 
 https://www.aboutamazon.com/our-leadership-principles
+
+Newly promoted sde2, 24 base + 28lakhs worth stocks. TC : 30 lakhs, yoe :2 yrs - https://www.quora.com/Which-highest-paying-software-companies-have-good-work-life-balance-I-am-currently-in-NIT-Trichy-CSE-and-if-I-work-hard-for-the-next-ten-years-what-salary-can-I-expect
