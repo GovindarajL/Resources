@@ -5,3 +5,5 @@ https://www.fullstack.cafe/blog/5-salary-negotiation-rules-for-software-develope
 http://thetomorrowbeckons.blogspot.com/2015/12/5-secrets-of-salary-negotiations.html
 
 http://thetomorrowbeckons.blogspot.com/2015/07/six-sins-of-communication.html
+
+https://www.quora.com/How-do-you-answer-when-the-recruiter-asks-how-much-money-youd-like-to-make
