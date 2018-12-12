@@ -25,3 +25,4 @@
 - [Understand your Programs Memory] (https://medium.freecodecamp.org/understand-your-programs-memory-92431fa8c6b)
 - https://www.quora.com/What-are-the-top-ten-computer-science-algorithms-to-make-projects
 - It is considered a best practice to NEVER return null
+- https://www.quora.com/How-do-I-pass-an-Amazon-interview-It-seems-that-despite-answering-all-questions-in-the-interview-one-will-still-get-rejected
