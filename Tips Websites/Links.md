@@ -26,3 +26,5 @@
 - https://www.quora.com/What-are-the-top-ten-computer-science-algorithms-to-make-projects
 - It is considered a best practice to NEVER return null
 - https://www.quora.com/How-do-I-pass-an-Amazon-interview-It-seems-that-despite-answering-all-questions-in-the-interview-one-will-still-get-rejected
+- https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
+- https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e
