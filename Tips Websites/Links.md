@@ -29,3 +29,4 @@
 - https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
 - https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e
 - - https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+- https://www.quora.com/How-long-does-it-take-to-master-algorithms-and-data-structures-to-get-a-job-at-Amazon-as-SDE
