@@ -30,3 +30,4 @@
 - https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e
 - - https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 - https://www.quora.com/How-long-does-it-take-to-master-algorithms-and-data-structures-to-get-a-job-at-Amazon-as-SDE
+- https://leetcode.com/discuss/interview-experience/230987/amazon-phone-interview
