@@ -17,3 +17,5 @@ https://hackernoon.com/what-i-learned-from-doing-1000-code-reviews-fe28d4d11c71
 https://medium.com/personal-growth/the-most-important-skill-nobody-taught-you-9b162377ab77
 
 https://medium.freecodecamp.org/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e
+
+https://medium.freecodecamp.org/these-are-the-reasons-software-engineers-dont-leave-their-jobs-61ccf926ce84
