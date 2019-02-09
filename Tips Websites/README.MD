@@ -8,4 +8,4 @@ https://www.fullstack.cafe/
     4) Whether you can improve the space and time complexity
     5) Test Case
 
-*** Learn Most of the expections i.e what they are expecting from amazon jobs page and linked job post
+*** Learn Most of the expections i.e what they are expecting from amazon jobs page and LinkedIn job post
