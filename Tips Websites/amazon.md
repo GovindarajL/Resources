@@ -45,3 +45,5 @@ https://www.quora.com/Amazon-interview-what-is-the-best-answer-to-the-question-w
 https://www.aboutamazon.com/our-leadership-principles
 
 Newly promoted sde2, 24 base + 28lakhs worth stocks. TC : 30 lakhs, yoe :2 yrs - https://www.quora.com/Which-highest-paying-software-companies-have-good-work-life-balance-I-am-currently-in-NIT-Trichy-CSE-and-if-I-work-hard-for-the-next-ten-years-what-salary-can-I-expect
+
+-  About Work-life balance:  "I manage my schedule really aggressively," he says. "If you let your calendar get filled up with non-essential stuff, you're not owning your career, and you're not owning your path. You can be scrappy. You can be entrepreneurial. You don't have to give up your personal life."  https://www.amazon.jobs/en-gb/pioneers/mike-b
