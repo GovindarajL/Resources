@@ -32,3 +32,5 @@
 - https://www.quora.com/How-long-does-it-take-to-master-algorithms-and-data-structures-to-get-a-job-at-Amazon-as-SDE
 - https://leetcode.com/discuss/interview-experience/230987/amazon-phone-interview
 - https://leetcode.com/discuss/interview-experience/232384/Amazon-SDE2
+- https://www.forbes.com/sites/carolinecenizalevine/2019/02/10/how-to-convince-an-employer-you-want-the-job-five-good-reasons-and-one-to-avoid/?utm_source=quora&utm_medium=referral#7712052c7cfa
+
