@@ -29,3 +29,4 @@
 - https://dzone.com/articles/code-smells-if-statements
 - http://www.benchresources.net/returning-value-from-method-having-try-catch-finally-blocks-in-java/ -> See the bottom of the page there will be a info about other keywords in Java.
 - http://www.benchresources.net/ -> VV useful, nice information.
+- https://netjs.blogspot.com/2015/05/fail-fast-vs-fail-safe-iterator-in-java.html -> Useful site see Related topics and you may like at the bottom of the page
