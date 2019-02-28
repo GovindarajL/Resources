@@ -57,3 +57,18 @@ internal referral
 naukri
 https://refdash.com/ - interview with an experienced engineer
 
+
+
+careercup
+glassdoor
+indiabix
+geeksforgeeks
+leetcode
+hackerrank
+hackkerearth
+codewars
+cracking the coding interview book
+participating in competition
+
+
+
